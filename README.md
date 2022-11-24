@@ -1,10 +1,10 @@
 # Projeto Borboleta - Desafio 02
 
-## Relação Lista de Equipes do Projeto
+## Relacao Lista de Equipes do Projeto
 
-- Dba – Administradores de banco de dados 
-- **FullStack** – Desenvolvedores sênior **`MASTER`** 
-- BackEnd – Desenvolvedores júnior e pleno 
-- FrontEnd – Desenvolvedores júnior e pleno 
-- Tester – Equipe de testes e qualidade de software 
-- Produção - Branch para códigos de produção
+- Dba - Administradores de banco de dados 
+- **FullStack** - Desenvolvedores senior **`MASTER`** 
+- BackEnd - Desenvolvedores junior e pleno 
+- FrontEnd - Desenvolvedores junior e pleno 
+- Tester - Equipe de testes e qualidade de software 
+- Producao - Branch para códigos de producao
